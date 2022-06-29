@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sej28/sej28/main/final_624dbd1bb2d2c60098afc9a7_190334.gif" alt="Hi Folks, I'm Sejal Koshta)" />
+<img src="https://raw.githubusercontent.com/sejalkoshta/sejalkoshta/main/final_624dbd1bb2d2c60098afc9a7_190334.gif" alt="Hi Folks, I'm Sejal Koshta)" />
 <h3> About Me! </h3>
 <hr>
 - ✨ I'm right now a first year student pursuing Electronics and Computer Engineering.<br>
@@ -8,7 +8,7 @@
 - 💞️ Apart from this, I like reading(mostly fictional) and traveling.<br>
 <br>
 
-[![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sej28&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejalkoshta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CTF-Reverse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1600ff)
