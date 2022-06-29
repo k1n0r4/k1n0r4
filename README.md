@@ -25,6 +25,6 @@
 [<img align="left" alt="sej28 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://github.com/sejalkoshta
-[twitter]: https://twitter.com/koshta_sejal
+[twitter]: https://twitter.com/k1n0r4__
 [instagram]: https://www.instagram.com/sejalkoshta_/
 [linkedin]: https://www.linkedin.com/in/sejal-koshta-
