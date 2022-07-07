@@ -8,7 +8,7 @@
 - 💞️ Apart from this, I like reading(mostly fictional) and traveling.<br>
 <br>
 
-[![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejalkoshta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1n0r4&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CTF-Reverse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1600ff)
@@ -24,7 +24,7 @@
 [<img align="left" alt="sej28 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sej28 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://github.com/sejalkoshta
+[website]: https://github.com/k1n0r4
 [twitter]: https://twitter.com/k1n0r4__
 [instagram]: https://www.instagram.com/sejalkoshta_/
 [linkedin]: https://www.linkedin.com/in/sejal-koshta-
