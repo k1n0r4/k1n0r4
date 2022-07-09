@@ -2,7 +2,6 @@
 <h3> About Me! </h3>
 <hr>
 - ✨ I'm right now a first year student pursuing Electronics and Computer Engineering.<br>
-- 👀 I’m interested in frontend web development and coding.<br>
 - 🌱 I’m currently learning C, C++, Python and Java.<br>
 - 🦾 I play CTF's with Team bi0s and Team Shakti as a reverser.<br>
 - 💞️ Apart from this, I like reading(mostly fictional) and traveling.<br>
