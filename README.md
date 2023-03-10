@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sejalkoshta/sejalkoshta/main/final_624dbd1bb2d2c60098afc9a7_190334.gif" alt="Hi Folks, I'm Sejal Koshta)" />
 <h3> About Me! </h3>
 <hr>
-- ✨ I'm right now a first year student pursuing Electronics and Computer Engineering.<br>
+- ✨ I'm right now a second year student pursuing Electronics and Computer Engineering.<br>
 - 🌱 I’m currently learning C, C++, Python and Java.<br>
 - 🦾 I play CTF's with Team bi0s and Team Shakti as a reverser.<br>
 - 💞️ Apart from this, I like reading(mostly fictional) and traveling.<br>
